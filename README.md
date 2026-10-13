@@ -3,6 +3,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/Language-T--SQL-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A relational database for a multi-line insurance company, built on **Microsoft SQL Server**. It covers the full business flow — clients, quotes, policies, payments, claims and the sales force — with business rules enforced directly in the database through constraints, triggers, functions, stored procedures and role-based security.
 
@@ -20,6 +21,7 @@ A relational database for a multi-line insurance company, built on **Microsoft S
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
 - [Team](#team)
+- [License](#license)
 
 ---
 
@@ -103,6 +105,7 @@ All triggers are set-based, so they work correctly with multi-row inserts and up
 │   ├── 05_reports.sql     # Reports and statistics
 │   ├── 06_tests.sql       # Tests for every function, trigger, view and procedure
 │   └── run_all.sql        # Runs every script in order (SQLCMD mode)
+├── LICENSE
 └── README.md
 ```
 
@@ -138,3 +141,7 @@ Developed as a team project at the Faculty of Engineering, UNAM.
 - **Emiliano Gutiérrez Nolasco**
 
 Original repository: [fdoaranda/Insurance-Management-System-SQL](https://github.com/fdoaranda/Insurance-Management-System-SQL)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
