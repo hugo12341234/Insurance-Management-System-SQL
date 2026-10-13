@@ -1,0 +1,5 @@
+# Normalize line endings in the repository
+* text=auto
+
+# Show the SQL scripts as T-SQL in GitHub's language stats
+*.sql linguist-language=TSQL
