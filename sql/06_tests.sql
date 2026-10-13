@@ -1,4 +1,4 @@
-/* ============================================================================
+﻿/* ============================================================================
    Proyecto : Sistema de Base de Datos para una Aseguradora (ASEGURADORA06)
    Archivo  : 06_tests.sql
    Contenido: Pruebas de funciones, triggers, vistas y procedimientos de

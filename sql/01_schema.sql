@@ -1,4 +1,4 @@
-/* ============================================================================
+﻿/* ============================================================================
    Proyecto : Sistema de Base de Datos para una Aseguradora (ASEGURADORA06)
    Archivo  : 01_schema.sql
    Contenido: DDL. Crea la base de datos, los esquemas, las tablas, las llaves

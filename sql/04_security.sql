@@ -1,4 +1,4 @@
-/* ============================================================================
+﻿/* ============================================================================
    Proyecto : Sistema de Base de Datos para una Aseguradora (ASEGURADORA06)
    Archivo  : 04_security.sql
    Contenido: DCL. Crea los roles del sistema, asigna permisos según las

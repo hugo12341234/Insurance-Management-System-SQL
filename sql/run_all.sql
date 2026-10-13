@@ -1,4 +1,4 @@
-/* ============================================================================
+﻿/* ============================================================================
    Proyecto : Sistema de Base de Datos para una Aseguradora (ASEGURADORA06)
    Archivo  : run_all.sql
    Contenido: Ejecuta todos los scripts del proyecto en orden.

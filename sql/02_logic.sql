@@ -1,4 +1,4 @@
-/* ============================================================================
+﻿/* ============================================================================
    Proyecto : Sistema de Base de Datos para una Aseguradora (ASEGURADORA06)
    Archivo  : 02_logic.sql
    Contenido: Lógica programable: funciones, triggers, vistas y procedimientos

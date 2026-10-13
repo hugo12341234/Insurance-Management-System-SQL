@@ -1,4 +1,4 @@
-/* ============================================================================
+﻿/* ============================================================================
    Proyecto : Sistema de Base de Datos para una Aseguradora (ASEGURADORA06)
    Archivo  : 05_reports.sql
    Contenido: Consultas de informes y estadísticas sobre pólizas, clientes,

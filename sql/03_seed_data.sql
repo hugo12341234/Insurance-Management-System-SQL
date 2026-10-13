@@ -1,4 +1,4 @@
-/* ============================================================================
+﻿/* ============================================================================
    Proyecto : Sistema de Base de Datos para una Aseguradora (ASEGURADORA06)
    Archivo  : 03_seed_data.sql
    Contenido: Datos de prueba: corredores, clientes, cotizaciones, tipos de
